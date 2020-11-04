@@ -1,7 +1,9 @@
-### Hi there 👋
+### Welcome 👋
+
+I'm a Senior Frontend Developer with 8 years experience building web and mobile applications. A team leader with people management experience, a passion for learning, and creating rich user experiences.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmgrant&layout=compact)](https://github.com/alexmgrant/github-readme-stats)
-![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexmgrant&count_private=true)
+
 <!--
 **alexmgrant/alexmgrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

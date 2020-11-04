@@ -4,8 +4,8 @@ I'm a Senior Frontend Developer with 8 years of experience building web and mobi
 
 ### 🔭 I’m currently working on
 
-- (Xello)[@careercruising] Helping students realize their future career and education success. 
-- (Kibble)[https://kibble.io] A pet store focused on convenience and health for your fuzzy/fluffy friends.  
+- [Xello](https://xello.world) Helping students realize their future career and education success. 
+- [Kibble](https://kibble.io) A pet store focused on convenience and health for your fuzzy/fluffy friends.  
 
 ### 🌱 I’m currently learning/implementing
 

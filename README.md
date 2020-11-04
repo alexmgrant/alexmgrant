@@ -1,4 +1,4 @@
-# Welcome 👋
+# Hi 👋
 
 I'm a Senior Frontend Developer with 8 years of experience building web and mobile applications—a team leader with people management experience, a passion for learning, and creating rich user experiences. 
 

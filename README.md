@@ -14,4 +14,4 @@ I'm a Senior Frontend Developer with 8 years of experience building web and mobi
 - GraphQL. Caching, data normalization, and optimistic UI, oh my! 
 - How to be a better leader and mentor.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmgrant&layout=compact)](https://github.com/alexmgrant/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmgrant&layout=compact&hide=css,html)](https://github.com/alexmgrant/github-readme-stats)

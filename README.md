@@ -1,10 +1,10 @@
 # Hi 👋
 
-I'm a Senior Frontend Developer with 8 years of experience building web and mobile applications—a team leader with people management experience, a passion for learning, and creating rich user experiences. 
+I'm a Senior Web Developer with 8 years of experience building web and mobile applications—a team leader with people management experience, a passion for learning, and creating rich user experiences. 
 
 ### 🔭 I’m currently working on
 
-- [Xello](https://xello.world) Helping students realize their future career and education success. 
+- [Shopify](https://shopify.com) Helping merchants build amazing businesses. 
 - [Kibble](https://kibble.io) A pet store focused on convenience and health for your fuzzy/fluffy friends.  
 
 ### 🌱 I’m currently learning/implementing
